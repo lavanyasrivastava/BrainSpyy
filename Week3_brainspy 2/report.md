@@ -1,4 +1,4 @@
-COMPARISON TABLE
+## COMPARISON TABLE
 
 | Model | Test Accuracy(in %) |
 | --- | --- |
@@ -14,7 +14,8 @@ COMPARISON TABLE
 | Resnet152 | 95.00 |
 | AlexNet | 91.10 |
 | LeNet | 63.00 |
-SUMMARY REPORT
+
+## SUMMARY REPORT
 
 VGG models
 
